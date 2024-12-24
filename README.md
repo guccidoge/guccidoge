@@ -1,8 +1,8 @@
-## heyy it's eilli!
+## Eilli here! Welcome to my sanctuary.
 
 - 🔭 As of 24 December '24, I’m currently working on a Stock Market Dashboard, check the repo out!
 - 🌱 I’m currently learning Python!
-- 🌹  Some things I simply adore: Jazz and a cup of matcha latte!
+- 🌹  Reach me out on [Instagram](https://www.instagram.com/eillifonggg/) or [LinkedIn](https://www.linkedin.com/in/eilliyahfong/)!
 <!--
 **guccidoge/guccidoge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
