@@ -2,7 +2,7 @@
 
 - 🔭 As of 24 December '24, I’m currently working on a Stock Market Dashboard, check the repo out!
 - 🌱 I’m currently learning Python!
-- 🌹  Some things I simply adore: jazz, matcha lattes, skyscrapers, watching planes and sunny blue azure skies
+- 🌹  Some things I simply adore: Jazz and a cup of matcha latte!
 <!--
 **guccidoge/guccidoge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
