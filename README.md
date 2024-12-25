@@ -1,6 +1,6 @@
 ## Eilli here! Welcome to my sanctuary.
 
-![](./assets/31e8d1085e630936bcfeae5ed7a85f0c.gif)
+![](./31e8d1085e630936bcfeae5ed7a85f0c.gif)
 
 - 🔭 As of 24 December '24, I’m currently working on a Stock Market Dashboard, check the repo out!
 - 🌱 I’m currently learning Python!
