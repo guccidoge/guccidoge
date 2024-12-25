@@ -1,4 +1,4 @@
-# Eilli here! Welcome to my sanctuary.
+## Eilli here! Welcome to my sanctuary. ![Wave](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)  
 
 ![](./31e8d1085e630936bcfeae5ed7a85f0c.gif)
 
