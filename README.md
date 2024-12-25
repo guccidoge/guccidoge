@@ -3,7 +3,7 @@
 ![i love nyc lol](./31e8d1085e630936bcfeae5ed7a85f0c.gif)
 
 - 🔭 As of 24 December '24, I’m currently working on a Stock Market Dashboard, check the repo out :)
-- 🌱 I’m currently learning Python!
+- 🌱 I’m currently learning **Python**!
 - 🎧 What I [listen](https://open.spotify.com/user/eillifong?si=4ede1a5663b549a8) to
 - 🌹  Reach me out on [Instagram](https://www.instagram.com/eillifonggg/) or [LinkedIn](https://www.linkedin.com/in/eilliyahfong/)!
 
