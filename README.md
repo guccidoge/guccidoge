@@ -1,9 +1,11 @@
-## Eilli here! Welcome to my sanctuary. ![Wave](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)  
+## Eilli here! Welcome to my sanctuary. 
 
 ![](./31e8d1085e630936bcfeae5ed7a85f0c.gif)
 
 - 🔭 As of 24 December '24, I’m currently working on a Stock Market Dashboard, check the repo out!
 - 🌱 I’m currently learning Python!
+- 🗽 NYC is my dream city
+- 🎧 Jazz and RnB are my [jam](https://open.spotify.com/user/eillifong?si=4ede1a5663b549a8)
 - 🌹  Reach me out on [Instagram](https://www.instagram.com/eillifonggg/) or [LinkedIn](https://www.linkedin.com/in/eilliyahfong/)!
 
 ## Languages I Know
