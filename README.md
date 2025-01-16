@@ -2,7 +2,7 @@
 
 ![i love nyc lol](./31e8d1085e630936bcfeae5ed7a85f0c.gif)
 
-- 🔭 As of 24 December '24, I’m currently working on a Stock Market Dashboard, check the repo out :)
+- 🔭 As of 24 December '24, I’m currently working on a Stock Market Dashboard, check the repo out :) (update 16 Jan '25: it's [up](https://guccidoge-stockdashboard-app-cmbpv3.streamlit.app/)!)
 - 🌱 I’m currently learning **Python**!
 - 🎧 What I [listen](https://open.spotify.com/user/eillifong?si=4ede1a5663b549a8) to
 - 🌹  Reach me out on [Instagram](https://www.instagram.com/eillifonggg/) or [LinkedIn](https://www.linkedin.com/in/eilliyahfong/)!
